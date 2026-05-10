@@ -22,4 +22,4 @@ Estado (activo o inactivo)
 Autor
 
 Bertha León
-Proyecto realizado para práctica de estructuras y manejo de archivos en C++.
+
